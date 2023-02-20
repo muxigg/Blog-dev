@@ -5,4 +5,5 @@ tags:
   - mysql
 categories:
   - 数据库
+cover: /img/MySQL.png
 ---
